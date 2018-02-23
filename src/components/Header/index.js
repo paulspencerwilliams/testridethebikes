@@ -23,7 +23,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Gatsby
+          Test ride the bikes
         </Link>
       </h1>
     </div>
